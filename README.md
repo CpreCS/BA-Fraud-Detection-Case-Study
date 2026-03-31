@@ -19,7 +19,7 @@ Business Analysis case study focused on defining requirements, mapping workflows
 
 - 📄 [Case Study (PDF)](Credit_Card_Fraud_Detection__Business_Analysis_Case_Study.pdf)  
 - 🔄 [Process Flow Diagram](Process_Flow.png)  
-- ⚙️ Jira Workflow: [Sprint Structure](Jira-Workflow-01.png) | [Completed Backlog Items](Jira-Workflow-02.png)  
+- ⚙️ Jira Workflow: [Sprint Structure](Jira-Workflow-01.png) | [User Story Structure](Jira-Story-Example.png) | [Completed Backlog Items](Jira-Workflow-02.png)  
 
 ---
 
